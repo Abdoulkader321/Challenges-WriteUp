@@ -1,6 +1,6 @@
-# Writeup
+# Writeups
 
-Here are some WriteUps of the challenges I completed on:
+Here are some Writeups of the challenges I completed on RootMe and HackTheBox:
 
 ## `RootMe`
 
