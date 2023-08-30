@@ -1,6 +1,6 @@
 # Writeup
 
-Here are some writeup of the challenges i did:
+Here are some WriteUps of the challenges I completed on:
 
 ## `RootMe`
 
